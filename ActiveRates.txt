@@ -1,5 +1,5 @@
 TamingSpeedMultiplier=5.0
-HarvestAmountMultiplier=6.0
+HarvestAmountMultiplier=8.0
 XPMultiplier=3.0
 MatingIntervalMultiplier=0.009
 BabyMatureSpeedMultiplier=20.0
